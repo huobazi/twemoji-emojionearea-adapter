@@ -9,7 +9,7 @@ use awesome [emojionearea](https://github.com/mervick/emojionearea) with awesome
 <script src="twemoji-emojionearea-adapter.js"></script>
 
 ```
-###javascript
+### javascript
 ```javascript
 var emojiableOnElement = function(el, options) {
   $(el).emojioneArea({
