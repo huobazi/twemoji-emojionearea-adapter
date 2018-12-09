@@ -34,8 +34,8 @@
     __emojione.imageType     = 'svg';
     __emojione.emojiSize     = 32;
     __emojione.sprites       = false;
-    __emojione.imagePathPNG  = "//twemoji.b0.upaiyun.com/2/svg/";
-    __emojione.imagePathSVG  = "//twemoji.b0.upaiyun.com/2/svg/";
+    __emojione.imagePathPNG  = "//twemoji.maxcdn.com/2/svg/";
+    __emojione.imagePathSVG  = "//twemoji.maxcdn.com/2/svg/";
     __emojione.fileExtension = ".svg";
 
     for (var key in __emojione.emojioneList) {
